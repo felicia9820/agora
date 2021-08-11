@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(86, 86, 177);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: azure;
+    padding: 20px;
+    width: 18%;
+}
+
+form input {
+    margin-bottom: 10px;
+}
